@@ -16,11 +16,16 @@ I'm Nitin Singh, I'm a fresher who is passionate about web technologies 👨‍�
 ### Languages and Tools:
 
 <p>
+<img src="https://github.com/NitinSingh99/NitinSingh99/assets/140099756/767ed8fe-937d-44f1-80ef-d77dce853fea" alt="cpp" height="33" width="33">
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
 <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://github.com/NitinSingh99/NitinSingh99/assets/140099756/f5c77be8-4fe1-4ce7-a5d8-9ca719d5e334" alt="cpp" height="33" width="33">
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/35/000000/python.png">
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://github.com/NitinSingh99/NitinSingh99/assets/140099756/da5cf8e3-e1d8-41cd-9bf9-6e979aae8222" alt="cpp" height="33" width="33">
+<img src="https://github.com/NitinSingh99/NitinSingh99/assets/140099756/a1db9f6b-7946-4565-af64-6ffc59b8a55f" alt="cpp" height="33" width="33">
+ 
+
 </p>
 
 #### *Currently looking for Web Developer roles!*
