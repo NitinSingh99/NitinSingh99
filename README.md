@@ -10,7 +10,7 @@
 </div>
 
 Hi👋 <br>
-I'm Nitin Singh, I'm a fresher who is passionate about web technologies 👨‍💻 and open source.
+I'm Nitin Singh, I'm a fresher who is passionate about web technologies 👨‍💻
 
 - 🔭 I’m currently working on Bootstrap and Javascript
 - 🌱 I’m currently learning Backend Development 😊
