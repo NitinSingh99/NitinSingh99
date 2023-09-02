@@ -31,7 +31,9 @@ I'm Nitin Singh, I'm a fresher who is passionate about web technologies 👨‍�
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://github.com/NitinSingh99/NitinSingh99/assets/140099756/da5cf8e3-e1d8-41cd-9bf9-6e979aae8222" alt="cpp" height="33" width="33">
 <img src="https://github.com/NitinSingh99/NitinSingh99/assets/140099756/a1db9f6b-7946-4565-af64-6ffc59b8a55f" alt="cpp" height="33" width="33">
+ <img src="https://github.com/NitinSingh99/NitinSingh99/assets/140099756/95782c67-4981-4c36-bf0d-525aa5373ec0" alt="cpp" height="33" width="33">
 </p>
+
 
 
 #### *Currently looking for Web Developer roles!*
