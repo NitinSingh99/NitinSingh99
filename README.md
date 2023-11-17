@@ -12,10 +12,10 @@
 Hi👋 <br>
 I'm Nitin Singh, I'm a fresher who is passionate about web technologies 👨‍💻
 
-- 🔭 I’m currently working on Bootstrap and Javascript
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning Backend Development 😊
 - ⚡ Fun fact: I love reading, touch typing and coding
-- ❤️ Would love: To learn UI/UX designing and blog writing
+- ❤️ Would love: To learn blog writing
 
 
  ---
