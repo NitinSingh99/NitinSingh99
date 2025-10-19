@@ -8,10 +8,9 @@
 
 
 Hi👋 <br>
-I'm Nitin Singh, I'm passionate about web technologies with experience of 2 Years 👨‍💻
+I'm Nitin Singh, I'm passionate about web technologies with experience of 3 Years 👨‍💻
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Backend Development 😊
+- 🔭 I’m currently working on AI
 - ⚡ Fun fact: I love reading, touch typing and coding
 - ❤️ Would love: To learn blog writing
 
